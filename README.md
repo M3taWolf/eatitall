@@ -1,4 +1,4 @@
-Hey, this is my Figma Project ''Eat it All''
+Hey, this is an App for exploring recipes, designed in Figma.
 
 <img width="761" alt="Bildschirmfoto 2022-12-09 um 10 05 12" src="https://user-images.githubusercontent.com/110381412/206665458-5c123767-3c5c-4361-b2d0-d2850d87bb24.png">
 
