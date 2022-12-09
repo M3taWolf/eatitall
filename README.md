@@ -1,1 +1,1 @@
-#Hey, this is my Figma Project ''Eat it All''
+Hey, this is my Figma Project ''Eat it All''
