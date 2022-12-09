@@ -1,13 +1,7 @@
 Hey, this is my Figma Project ''Eat it All''
-
-![Recipe iOS Hi Fi-1](https://user-images.githubusercontent.com/110381412/206662908-91952138-f281-4a44-b1d7-4d919af3e6e4.jpg)
-
-![Chefs Table IOS Hi Fi](https://user-images.githubusercontent.com/110381412/206662792-c7cb9f32-5be3-4b7d-9960-496f87f08c40.jpg)
-
-![Recipe iOS Hi Fi-2](https://user-images.githubusercontent.com/110381412/206662729-1233c570-6e1a-4e55-9cf0-3ce56a6063d9.jpg)
-
-![Tagliatelle Nero di Sepia](https://user-images.githubusercontent.com/110381412/206662985-cb872636-2a44-483f-9979-c379b521cf22.jpg)
-
-![Chefs Table Why Vote iOS Hi Fi](https://user-images.githubusercontent.com/110381412/206663011-ad427c51-2bdd-40ae-a558-c73c45d19ec8.jpg)
-
-![Chefs Table Vote IOS Hi Fi](https://user-images.githubusercontent.com/110381412/206663055-d0826e64-f05a-4c4e-983a-0760bb644aa9.jpg)
+<img width="388" alt="Bildschirmfoto 2022-12-09 um 09 56 20" src="https://user-images.githubusercontent.com/110381412/206664283-4a63d7fd-2196-4f9a-b926-c1bbd758e1e3.png">
+<img width="397" alt="Bildschirmfoto 2022-12-09 um 09 57 18" src="https://user-images.githubusercontent.com/110381412/206664342-b566d4ff-359f-4773-9a47-8b202bc32228.png">
+<img width="403" alt="Bildschirmfoto 2022-12-09 um 09 57 40" src="https://user-images.githubusercontent.com/110381412/206664373-51df4913-c374-43f8-a0ac-cfcb3494a09c.png">
+<img width="382" alt="Bildschirmfoto 2022-12-09 um 09 58 02" src="https://user-images.githubusercontent.com/110381412/206664405-44dad45d-41c7-4380-a1d2-eee6b3ec3976.png">
+<img width="378" alt="Bildschirmfoto 2022-12-09 um 09 58 19" src="https://user-images.githubusercontent.com/110381412/206664418-3f596df1-66b8-47b7-bc0c-ade56f663c9f.png">
+<img width="379" alt="Bildschirmfoto 2022-12-09 um 09 58 35" src="https://user-images.githubusercontent.com/110381412/206664438-a7c51afd-60e0-4849-a490-7eb8edeeb4eb.png">
